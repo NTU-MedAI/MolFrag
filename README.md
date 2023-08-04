@@ -36,4 +36,12 @@ Obtain and organize all feasible fragmentation of molecular methods
   Article link: https://pubs.acs.org/doi/10.1021/acs.jcim.0c01127
 ## Tree Deconposition
   Code link: https://github.com/leaves520/MSSGAT
-  Article link: https://www.sciencedirect.com/science/article/abs/pii/S0031320322001406?via%3Dihub
+  Article link: https://www.sciencedirect.com/science/article/abs/pii/S0031320322001406?via%3Dihub  
+## Ring-cutting
+  Code link: https://github.com/jkwang93/Frag-G_M
+  Article link: https://pubs.acs.org/doi/10.1021/acs.jcim.3c00579
+## MMPs
+  Code link: https://github.com/YuYaoYang2333/SyntaLinker
+  Article link: https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc03126g
+
+  
